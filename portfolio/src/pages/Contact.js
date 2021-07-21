@@ -41,6 +41,13 @@ function Contact() {
                             <p className="text-center">Phone: (908)892-7088</p>
                         </h4>
                     </Col>
+                    <Col size="md-12">
+                        <h4 className="col-sm-12 ml-auto contact-btn">
+                            <a className="text-decoration-none text-black" href="https://github.com/WAN2748" target="blank"><i class="fas fa-envelope-open-text fa-4x"></i>
+                            <p className="text-center">GitHub</p>
+                            </a>
+                        </h4>
+                    </Col>
                 </Row>
 
             </Container>
