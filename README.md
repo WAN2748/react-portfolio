@@ -12,6 +12,6 @@
 
 ## links
 
-![webpage](https://wan2748.github.io/)
+[webpage](https://wan2748.github.io/)
 
-![video](https://drive.google.com/file/d/1IXp57-nRoyBPcrrqnxVwyEUB48yMa5-Y/view)
+[video](https://drive.google.com/file/d/1IXp57-nRoyBPcrrqnxVwyEUB48yMa5-Y/view)
