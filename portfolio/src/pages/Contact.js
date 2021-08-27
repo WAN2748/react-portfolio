@@ -16,7 +16,7 @@ function Contact() {
                     width={120}
                     style={{ alignSelf: 'center', borderRadius: '5px 50px 5px 50px' }}
                 />
-                <h2>Portfolio</h2>
+                <h2>Contact</h2>
             </Hero>
             <Container style={{ marginTop: 24 }}>
                 <Row>
