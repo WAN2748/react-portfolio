@@ -6,6 +6,7 @@ import About from "./pages/About";
 import Navbar from "./components/Nav";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
+import Welcome from "./pages/Welcome";
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
         
         <Wrapper>
         <Navbar />
-          <Route exact path="/" component={About} />
+          <Route exact path="/react-portfolio/" component={Welcome} />
+          <Route exact path="/" component={Welcome} />
           <Route exact path="/about" component={About} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />

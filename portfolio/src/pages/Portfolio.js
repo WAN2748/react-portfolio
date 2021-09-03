@@ -6,6 +6,7 @@ import Row from "../components/Row";
 import Col from "../components/Col";
 import Weather from "./images/portfolio/weatherDashSS.png"
 import PassGen from "./images/portfolio/passGen.png"
+import Poke from "./images/portfolio/pokeLookup.png"
 import "./CSS/portfolio.css"
 
 
@@ -37,9 +38,18 @@ function Portfolio() {
                         <div class="headers" style= {{ marginLeft:'60px'}}> Password Generator
                             <a href="https://wan2748.github.io/password_generator/" target="blank">
                             <img src={PassGen} alt="Weather Dashboard"
-                                height={170}
+                                height={173}
                                 width={210}
-                                
+                                />
+                            </a>
+                        </div>
+                    </Col>
+                    <Col size="md-1">
+                        <div class="headers" style= {{ marginLeft:'230px'}}> Pokemon Lookup
+                            <a href="https://thepokemonlookupproject.herokuapp.com/" target="blank">
+                            <img src={Poke} alt="Weather Dashboard"
+                                height={173}
+                                width={210}
                                 />
                             </a>
                         </div>
